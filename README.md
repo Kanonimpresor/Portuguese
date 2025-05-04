@@ -44,5 +44,9 @@ Se detectar algum erro e desejar alertar o autor para a correcção do mesmo, po
 ## HISTÓRICO
 v1.0 [2025-05-04] => Primeiro lançamento oficial da tradução PT-PT .utf-8 (v2.3.3).
 
+## LICENÇA
+
+e107 Portuguese Language Pack v2.3.3, lançado nos termos e condições da GNU [General Public License](http://www.gnu.org/licenses/gpl.txt)
+
 
 [EOF]
