@@ -1,9 +1,22 @@
 <?php
+/*
++---------------------------------------------------------------+
+|       e107 content management system.
+|       (Portuguese language file)
+|
+|       Tradução Português(PT) -> Comunidade e107 Portugal
+|      	(http://www.e107pt.com), 2025
+|
+|       Released under the terms and conditions of the
+|       GNU General Public License (http://gnu.org).
++---------------------------------------------------------------+
+*/
 
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
+if(!defined('PAGE_NAME')) // FIXME.
+{
+	define("PAGE_NAME", "Site temporariamente fechado");
+}
 
-define("PAGE_NAME", "Site temporariamente fechado");
-define("LAN_SITEDOWN_00", "está temporariamente fechada");
-define("LAN_SITEDOWN_01", "Fechamos temporariamente o site para alguma manutenção essencial. Isto não deve demorar muito tempo - por favor, cheque volta logo, desculpas pelo inconveniente.");
+define("LAN_SITEDOWN_00", "está temporariamente fechado");
+define("LAN_SITEDOWN_01", "Encerrámos temporariamente o site para uma manutenção essencial. Isto não deverá demorar muito — volta a verificar em breve. Pedimos desculpa pelo incómodo.");
+
