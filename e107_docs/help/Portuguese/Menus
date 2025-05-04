@@ -1,12 +1,12 @@
 
-Q>	O que são menus?
-A>	São ítens que aparecem nas áreas de menu (ou colunas) do seu site.  Eles podem conter textos, links, qualquer coisa!
+P> O que são menus?
+R> São itens que aparecem nas áreas de menu (ou colunas) do seu site. Estes podem conter texto, links, o que for.
 
-Q>	Como eu ativo um ítem de menu?
-A>	Vá até a sua área de admin e clique em Menus.  Você irá ver um layout principal do seu site com uma lista de menus em suas respectivas áreas.  Os ítens de menu no centro da página estão inativos, você pode movê-los para uma área ativa clicando em Ativar este menu.  Você pode mover o menu de área ou mudar sua posição na coluna, para cima ou para baixo, quando estiver ativado.
+P> Como ativar um item de menu?
+R> Vá para a área de administração e clique em Menus. Você verá o layout principal do seu site com uma lista dos menus nas suas respectivas áreas. Os itens de menu no centro da página estão inativos; pode movê-los para uma área ativa clicando em Ativar este menu. Também pode mover a área onde o menu está ou movê-lo para cima ou para baixo na coluna depois de ser ativado.
 
-Q>	Preciso colocar um texto dentro de um ítem de menu, como posso fazer isso?
-A>	Vá até a área de admin e clique em Menus do Usuário (Custom Menus). Daqui você pode digitar qualquer texto que você quiser para um menu e isso irá salvá-lo e deixá-lo disponível como outro menu qualquer.
+P> Preciso colocar algum texto dentro de um item de menu, como faço isso?
+R> Vá para a área de administração e clique em Menus Personalizados. A partir daí pode adicionar qualquer texto que desejar a um menu, e ele será guardado e estará disponível como qualquer outro menu.
 
-Q>	Como posso mudar as opções de um ítem de menu?
-A>	Se um painel de configuração estiver disponível, você irá ver um link para ele (chamado 'Configurar') no menu ativado.
+P> Como posso mudar as opções de um item de menu?
+R> Se houver um painel de configuração disponível, verá um link para ele (chamado 'Configurar') na caixa do menu depois de ser ativado.

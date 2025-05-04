@@ -1,6 +1,6 @@
 
-Q>	O que são permissões?
-A>	Elas permitem a você dar aos administradores diferentes tipos de acesso na área de admin. Por exemplo, você pode querer deixar um certo admin apenas a postar notícias, usando as permissões, você pode fazer isso.  Existem algumas funções de admin que são apenas acessíveis ao administrador principal (main admin), isto tudo por questões de segurança.
+P> O que são permissões de acesso?
+R> Permitem-te atribuir diferentes níveis de acesso aos administradores na secção de administração. Por exemplo, podes querer permitir que apenas um determinado administrador publique notícias; usando permissões podes fazer isso. Existem algumas funções de administração que só estão acessíveis ao administrador principal do site, por razões de segurança.
 
-Q>	Eu quero converter um membro registrado em administrador, como faço?
-A>	Clique no link Usuários na área de admin e procure pelo membro registrado, então clique em Tornar Administrador.  Você deverá ir imediatamente à área de Administradores e configurar permissões para o novo admin.  Você poderá remover o status de admin de alguém da mesma maneira.
+P> Quero tornar um membro registado num administrador – como faço?
+R> Clica em Utilizadores na tua área de administração e procura o membro registado. Depois, clica em Tornar Administrador. A seguir, deves ir imediatamente à secção Administradores e definir as permissões dele. Também podes remover o estatuto de administrador de alguém desta forma.
