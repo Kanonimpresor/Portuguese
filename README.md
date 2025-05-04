@@ -28,7 +28,7 @@ Este pack de arquivo contém os ficheiros (codificação utf-8) em Português de
 ```
 
 ## INSTRUÇÕES 
-Para poder usar esta tradução, deverá efectuar a [transferência](https://github.com/Kanonimpresor/Portuguese) de todos as pastas e ficheiros desde o botão [<> Code] --> Download ZIP. 
+Para poder usar esta tradução, deverá efectuar a [transferência](https://github.com/Kanonimpresor/Portuguese) de todos as pastas e ficheiros desde o botão verde [<> Code] --> Download ZIP. 
 Manter intacta, após descarregar e descompactar no seu computador, toda a estrutura/directorias de e107 para poder carregar, via FTP ou Cpanel, o diretório do e107 no seu servidor.
 
 ## CONDIÇÕES DE UTILIZAÇÃO
