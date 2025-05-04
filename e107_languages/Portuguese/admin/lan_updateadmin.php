@@ -1,13 +1,22 @@
 <?php
+/*
++---------------------------------------------------------------+
+|       e107 content management system.
+|       (Portuguese language file)
+|
+|       Tradução Português(PT) -> Comunidade e107 Portugal
+|      	(http://www.e107pt.com), 2025
+|
+|       Released under the terms and conditions of the
+|       GNU General Public License (http://gnu.org).
++---------------------------------------------------------------+
+*/
 
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
-
-define("UDALAN_1", "Erro - por favor, envie-o novamente.");
-define("UDALAN_2", "Configurações de admin atualizado");
-define("UDALAN_3", "Configurações atualizadas para");
+define("UDALAN_1", "Erro - por favor, reenvie.");
+define("UDALAN_2", "Definições do administrador atualizadas");
+define("UDALAN_3", "Definições atualizadas para");
 define("UDALAN_4", "Nome");
-define("UDALAN_6", "Re-digite a senha");
-define("UDALAN_7", "Alterar senha");
-define("UDALAN_8", "Senha atualizada para");
+//define("UDALAN_5", "Palavra-passe");//LAN_PASSWORD
+define("UDALAN_6", "Repetir palavra-passe");
+define("UDALAN_7", "Alterar palavra-passe");
+define("UDALAN_8", "Palavra-passe atualizada para");

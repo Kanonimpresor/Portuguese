@@ -12,10 +12,9 @@
 +---------------------------------------------------------------+
 */
 
-// Moc: NOT IN USE, REMOVE?
+// Removido o código não utilizado
 
-// define("PAGE_NAME", "e107 Credits");
-
+// Define("PAGE_NAME", "e107 Credits");
 // define("CRELAN_1", "Credits");
 // define("CRELAN_2", "Here is a list of third-party software / resources used in e107. The e107 development team would like to personally thank the developers of the following for allowing us to redistribute their code with e107, and for releasing their software under the GPL licence.");
 // define("CRELAN_3", "all rights reserved");
@@ -27,7 +26,6 @@
 // define("CRELAN_9", "Licence");
 
 // third party scripts
-
 // define("CRELAN_10", "MagpieRSS provides an XML-based (expat) RSS parser in PHP.");
 // define("CRELAN_11", "PclZip library offers compression and extraction functions for Zip formatted archives (WinZip, PKZIP).");
 // define("CRELAN_12", "PclTar offer the ability to archive a list of files or directories with or without compression. The archives created by PclTar are readable by most of gzip/tar applications and by the Windows WinZip application.");
@@ -42,7 +40,6 @@
 // end third party scripts
 
 // dev team
-
 // define("CRELAN_20", ""); // asperon
 // define("CRELAN_21", "Always a pressure..err..pleasure!"); // CaMer0n
 // define("CRELAN_22", "\"MTVhNjMyZDgxN2QwM2Q3ZTI<br />5ODM2NDU3YWI0ZjM1NGILJT<br />yarrrrrr! wtf matey!\""); // jalist
@@ -54,7 +51,8 @@
 // define("CRELAN_28", ""); // MrPete
 // define("CRELAN_29", "Up and forward!"); // SecretR
 // define("CRELAN_30", ""); // steved
-//define("CRELAN_31", "");
-//define("CRELAN_32", "");
+// define("CRELAN_31", "");
+// define("CRELAN_32", "");
 
 // end dev team
+
